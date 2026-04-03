@@ -5,7 +5,7 @@ import { useAuth } from '../../context/AuthContext.jsx'
 import { useCart } from '../../context/CartContext.jsx'
 import './ProductDetail.css'
 
-const API = 'http://localhost:5000/api/products'
+const API = `${import.meta.env.VITE_API_URL}/products`
 
 export default function ProductDetail() {
   const { id } = useParams()

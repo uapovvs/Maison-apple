@@ -9,7 +9,7 @@ export default function Catalog() {
   const [products, setProducts] = useState([])
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/products')
+    fetch(`${import.meta.env.VITE_API_URL}/products`)
       .then(r => r.json())
       .then(data => setProducts(data))
   }, [])
