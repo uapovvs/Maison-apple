@@ -2068,3 +2068,5 @@
 [2026-04-03 16:02:04] [32minfo[39m: ::1 - - [03/Apr/2026:11:02:04 +0000] "GET /api/products HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 [2026-04-03 16:02:12] [32minfo[39m: ::1 - - [03/Apr/2026:11:02:12 +0000] "GET /api/products HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 [2026-04-03 16:02:12] [32minfo[39m: ::1 - - [03/Apr/2026:11:02:12 +0000] "GET /api/products HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-04-03 16:20:11] [32minfo[39m: ✅ MongoDB connected
+[2026-04-03 16:20:11] [32minfo[39m: 🚀 Server running on port 5000
